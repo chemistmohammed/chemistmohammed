@@ -12,6 +12,13 @@ Also has a good record in QC activities in FMCG, pharmaceutical and petrochemica
 - 📫 How to reach me ... Mobile:  +201281005453 , +201114380003 , Email: chemistmohammed@ymail.com , https://www.linkedin.com/in/mohammed-ali-elsaey-01533847/
 
 <!---
+
+I can support in the following topics:
+Quality management system (QMS): System building from scratch, training, auditing.
+Hygiene and Hygienic design in pharmaceutical, personal care products and cosmetics production.
+Chemical laboratory design and start-up.
+Consultation regarding the technical issues in the personal care products and cosmetics production arena.
+
 chemistmohammed/chemistmohammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 https://www.linkedin.com/in/mohammed-ali-elsaey-01533847/
